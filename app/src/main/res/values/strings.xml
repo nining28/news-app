@@ -3,80 +3,80 @@
     <string name="title">title</string>
     <string name="description">desc</string>
     <string name="about_me">About Me</string>
-    <string name="name">Kingkin Fajar Anifianto</string>
-    <string name="about_desc">Hi, I\'m Kingkin Fajar Anifianto, people who know me usually call me Kingkin (20), Developer who also likes to make UI Design, passionate about programming after graduating from junior high school, I continue to study at a vocational high school majoring in software engineering.\n\nI focus on Frontend Development, for now, I spend a lot of time to explore about Frontend Development using React JS, Next JS and also explore about mobile development using Flutter.</string>
+    <string name="name">Nining Anisah</string>
+    <string name="about_desc">Hallo Guys! Kenalin aku Nining Anisah, kalian bisa panggil namaku dengan sebutan nining. Aku merupakan salah satu mahasiswi dari fakultas ilmu komputer pada Universitas Al-Khairiyah yang ada di Kota Cilegon.</string>
     <string name="share">Bagikan</string>
     <string name="date">date</string>
     <string name="read_more">Baca Selengkapnya :</string>
-    <string name="email">kingkinnfajar@gmail.com</string>
+    <string name="email">nininganisah1@gmail.com</string>
 
     <!--  News Title  -->
     <string-array name="news_title">
-        <item>Cara Bikin Whatsapp Web Enggak Bisa Diintip Orang Lain</item>
-        <item>Fakta-fakta Ekuinoks, Dikenal Sejak Peradaban Kuno</item>
-        <item>Sinar UV Ekstrem Melanda saat Ekuinoks Tiba, Simak Daftar Daerahnya</item>
-        <item>Fenomena Ekuinoks Terjadi Hari Ini, Cek Jadwal Lengkapnya</item>
-        <item>FOTO: Ramai-ramai Serbu Tokyo Game Show 2023</item>
-        <item>Viral Muka Orang Dijadikan Stiker WA Bisa Dipidana, Apa Kata Pakar?</item>
-        <item>Strategi Menkominfo Gencar Berantas Judi Online: Perkuat Kolaborasi</item>
-        <item>Rampungkan ASO, Kominfo Geber Pemerataan 5G</item>
-        <item>FOTO: Cerita Perburuan Massal iPhone 15 di China</item>
-        <item>Analis Ungkap Influencer Pro Ganjar Dominan di Medsos</item>
+        <item>Manfaat Brokoli pada Kesehatan Tubuh</item>
+        <item>Manfaat Jagung pada Kesehatan Tubuh</item>
+        <item>Manfaat Kacang Panjang pada Kesehatan Tubuh</item>
+        <item>Manfaat Kangkung pada Kesehatan Tubuh</item>
+        <item>Manfaat Kol pada Kesehatan Tubuh</item>
+        <item>Manfaat Sawi pada Kesehatan Tubuh</item>
+        <item>Manfaat Selada pada Kesehatan Tubuh</item>
+        <item>Manfaat Seledri pada Kesehatan Tubuh</item>
+        <item>Manfaat Timun pada Kesehatan Tubuh</item>
+        <item>Manfaat Wortel pada Kesehatan Tubuh</item>
     </string-array>
 
     <!--  News Pref Content  -->
     <string-array name="news_content">
-        <item>Risau orang sebelah mengintip chat saat Anda pakai WhatsApp Web? Berikut langkah-langkah menangkalnya.</item>
-        <item>Simak deret fakta soal fenomena ekuinoks yang bakal kembali menyapa sejumlah wilayah Indonesia hari ini, Sabtu (23/9).</item>
-        <item>BMKG memprakirakan sinar UV Matahari level ekstrem bakal kembali menyengat sejumlah wilayah Indonesia, Sabtu (23/9), di saat ekuinoks terjadi.</item>
-        <item>Fenomena ekuinoks bakal kembali menyapa sejumlah wilayah Indonesia hari ini, Sabtu (23/9). Simak jadwalnya.</item>
-        <item>Game-game terbaru mencuri panggung di Tokyo Game Show 2023 (TGS) yang digelar di pusat Makuhari Messe di Chiba, Jepang pada Kamis (21/9).</item>
-        <item>Video yang menyebut menggunakan wajah orang lain menjadi stiker WA terancam pidana viral di TikTok. Cek Penjelasannya.</item>
-        <item>Menkominfo Budi Arie Setiadi menegaskan pemberantasan praktik judi online harus dilakukan dengan serius, salah satu strateginya dengan memperkuat kolaborasi.</item>
-        <item>Kominfo mengklaim telah menyelesaikan Analog Switch Off (ASO) secara menyeluruh dan kini mengalihkan target pemerataan koneksi 5G.</item>
-        <item>Perilisan iPhone 15 di China menuai antrean panjang warga meski ada pesimisme terkait fitur yang gitu-gitu aja dan kemunculan pesaing lokal.</item>
-        <item>Drone Emprit mengungkap influencer Ganjar Pranowo mendominasi medsos terkait perbincangan soal acara Mata Najwa.</item>
+        <item>Sayuran ini dikenal sebagai menu terbaik untuk diet. Bukan hanya baik dalam hal menurunkan berat badan, beberapa manfaat super lainnya adalah melancarkan pencernaan, mencegah kanker, dan menjaga kesehatan mata.</item>
+        <item>Jagung dikonsumsi oleh sebagian masyarakat Indonesia sebagai makanan pokok sehari-hari. Tidak hanya nikmat, manfaat jagung bagi kesehatan juga melimpah, mulai dari melancarkan pencernaan, menangkal efek radikal bebas, hingga menjaga kesehatan mata.</item>
+        <item>Kacang panjang adalah salah satu sayuran yang cukup populer di kawasan Asia Tenggara dan Asia Timur.Selain itu, kandungan nutrisi dalam kacang panjang juga tak hanya bisa membantu mencukupi kebutuhan gizi harian, tetapi juga berpotensi mendatangkan beragam manfaat kesehatan.</item>
+        <item>Kangkung menjadi salah satu sayuran yang tidak kenal musim dan mudah kamu temukan di mana saja. Sayur kangkung juga memiliki rasa yang lezat dan bisa kamu olah menjadi berbagai macam hidangan. </item>
+        <item>Sayur kol menjadi salah satu jenis sayuran yang cukup mudah untuk kamu temukan. Sayuran ini juga bermanfaat untuk menurunkan peradangan tubuh, menurunkan kolesterol, hingga menjaga kesehatan jantung.</item>
+        <item>Sayuran sawi punya beragam warna daun, tetapi lebih sering ditemui adalah berdaun hijau dan putih. Jenis sayuran ini bisa dikatakan sebagai salah satu makanan super karena memiliki kandungan gizi yang begitu tinggi.</item>
+        <item>Selada adalah sayuran yang menyehatkan karena kandungan nutrisinya. Sayuran ini mengandung serat, kalsium, fosfor, zat besi, natrium, kalium, karbohidrat, protein, dan lemak. Selain itu, sayuran ini juga mengandung vitamin A dan K yang cukup tinggi.</item>
+        <item>Seledri merupakan sayuran yang termasuk bagian famili Apiaceae, yaitu wortel. Sayuran ini memiliki tangkai yang renyah dan bisa dipilih sebagai camilan rendah kalori. Menariknya lagi, seledri juga memberikan berbagai manfaat kesehatan untuk tubuh.</item>
+        <item>Mentimun merupakan buah bergizi dengan kandungan tinggi air. Mengonsumsi makanan ini dapat membantu meningkatkan kesehatan tubuh secara keseluruhan. Salah satu cara mengolah mentimun adalah dengan merebusnya. Timun rebus sendiri hidangan yang melibatkan proses perebusan timun dan sedikit garam sampai bertekstur lembut. </item>
+        <item>Wortel adalah salah satu sayuran yang cukup populer dan bisa digunakan untuk berbagai olahan hidangan. Mulai dari minuman, kue, salad, tumisan, dan masih banyak lagi. Sayuran berwarna oranye ini juga merupakan makanan sehat karena kandungan nutrisinya yang beragam. Bahkan, rutin mengonsumsi bisa membuat kondisi kesehatan menjadi lebih optimal.</item>
     </string-array>
 
     <!--  News Release Date  -->
     <string-array name="news_release_date">
-        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2024-01-22T11:40:21.000Z</item>
     </string-array>
 
     <string-array name="news_link">
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922204655-185-1002640/cara-bikin-whatsapp-web-enggak-bisa-diintip-orang-lain</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922203037-199-1002632/fakta-fakta-ekuinoks-dikenal-sejak-peradaban-kuno</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922200913-199-1002620/sinar-uv-ekstrem-melanda-saat-ekuinoks-tiba-simak-daftar-daerahnya</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922135650-199-1002433/fenomena-ekuinoks-terjadi-hari-ini-cek-jadwal-lengkapnya</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922102823-187-1002321/foto-ramai-ramai-serbu-tokyo-game-show-2023</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922192710-185-1002609/viral-muka-orang-dijadikan-stiker-wa-bisa-dipidana-apa-kata-pakar</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922213432-190-1002654/strategi-menkominfo-gencar-berantas-judi-online-perkuat-kolaborasi</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922170827-213-1002565/rampungkan-aso-kominfo-geber-pemerataan-5g</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922114118-208-1002365/foto-cerita-perburuan-massal-iphone-15-di-china</item>
-        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922160419-192-1002536/analis-ungkap-influencer-pro-ganjar-dominan-di-medsos</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/inilah-11-manfaat-brokoli-yang-perlu-diketahui</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/baik-untuk-pencernaan-ini-manfaat-jagung-bagi-kesehatan</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/catat-ini-berbagai-manfaat-kacang-panjang-bagi-tubuh</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/berbagai-manfaat-sayur-kangkung-bagi-kesehatan-keluarga</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/kandungan-nutrisi-dan-13-manfaat-sayur-kol-untuk-kesehatan</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/berbagai-manfaat-sawi-untuk-kesehatan</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/13-manfaat-selada-untuk-kesehatan-dan-kecantikan</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/jarang-diketahui-ini-12-manfaat-daun-seledri-untuk-kesehatan</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/ini-7-manfaat-mengonsumsi-timun-rebus-untuk-kesehatan</item>
+        <item tools:ignore="TypographyDashes">https://www.halodoc.com/artikel/inilah-kandungan-nutrisi-dan-manfaat-wortel-untuk-kesehatan</item>
     </string-array>
 
     <!--  News Images  -->
     <string-array name="news_images">
-        <item>@drawable/news_image_1</item>
-        <item>@drawable/news_image_2</item>
-        <item>@drawable/news_image_3</item>
-        <item>@drawable/news_image_4</item>
-        <item>@drawable/news_image_5</item>
-        <item>@drawable/news_image_6</item>
-        <item>@drawable/news_image_7</item>
-        <item>@drawable/news_image_8</item>
-        <item>@drawable/news_image_9</item>
-        <item>@drawable/news_image_10</item>
+        <item>@drawable/brokoli</item>
+        <item>@drawable/jagung</item>
+        <item>@drawable/kacangpanjang</item>
+        <item>@drawable/kangkung</item>
+        <item>@drawable/kol</item>
+        <item>@drawable/sawi</item>
+        <item>@drawable/selada</item>
+        <item>@drawable/seledri</item>
+        <item>@drawable/timun</item>
+        <item>@drawable/wortel</item>
     </string-array>
 
 </resources>

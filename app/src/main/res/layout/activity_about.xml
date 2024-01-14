@@ -17,11 +17,13 @@
             android:id="@+id/img_profile"
             android:layout_width="220dp"
             android:layout_height="220dp"
+            android:layout_marginTop="36dp"
             android:scaleType="centerCrop"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
+            android:src="@drawable/nining"
             app:layout_constraintEnd_toEndOf="parent"
-            android:src="@drawable/kingkin"/>
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/name"
@@ -33,7 +35,7 @@
             android:layout_marginTop="30dp"
             android:textSize="32sp"
             android:textStyle="bold"
-            android:text="@string/name" />
+            android:text="Nining Anisah" />
 
         <TextView
             android:id="@+id/email"
@@ -42,7 +44,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginTop="5dp"
             android:textSize="18sp"
-            android:text="@string/email"
+            android:text="nininganisah1@gmail.com"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"/>
 
